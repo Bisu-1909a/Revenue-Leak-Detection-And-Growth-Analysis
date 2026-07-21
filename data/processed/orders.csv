@@ -1,0 +1,501 @@
+order_id,customer_id,order_date,status,sales_channel
+1,9,2024-07-10,Completed,Marketplace
+2,94,2024-12-30,Completed,Mobile App
+3,89,2025-03-27,Completed,Website
+4,17,2025-06-30,Completed,Website
+5,10,2025-09-29,Completed,Mobile App
+6,6,2024-12-05,Completed,Marketplace
+7,13,2024-12-11,Completed,Marketplace
+8,33,2025-04-01,Completed,Mobile App
+9,2,2024-09-07,Completed,Website
+10,11,2024-02-15,Completed,Website
+11,10,2025-03-07,Completed,Website
+12,24,2025-03-17,Completed,Website
+13,88,2025-02-15,Completed,Mobile App
+14,8,2025-01-01,Completed,Mobile App
+15,60,2024-05-16,Cancelled,Website
+16,91,2024-05-15,Completed,Website
+17,40,2024-06-09,Returned,Mobile App
+18,66,2025-03-16,Completed,Mobile App
+19,91,2025-04-21,Cancelled,Mobile App
+20,88,2025-11-16,Completed,Website
+21,55,2025-12-26,Completed,Website
+22,4,2024-09-04,Completed,Website
+23,58,2025-12-21,Completed,Website
+24,68,2024-04-06,Completed,Website
+25,70,2025-09-21,Completed,Website
+26,37,2025-12-25,Completed,Website
+27,73,2025-09-13,Completed,Marketplace
+28,62,2025-03-03,Completed,Mobile App
+29,70,2024-07-18,Completed,Mobile App
+30,4,2024-01-27,Completed,Website
+31,56,2025-02-27,Completed,Website
+32,66,2024-04-05,Completed,Marketplace
+33,87,2025-07-03,Completed,Website
+34,7,2024-02-24,Completed,Marketplace
+35,3,2024-12-04,Cancelled,Mobile App
+36,34,2025-01-26,Completed,Website
+37,25,2024-01-19,Returned,Mobile App
+38,2,2024-12-15,Completed,Website
+39,66,2024-01-01,Completed,Mobile App
+40,75,2024-06-26,Completed,Mobile App
+41,27,2025-05-10,Completed,Website
+42,76,2024-01-24,Returned,Marketplace
+43,7,2025-01-19,Completed,Website
+44,62,2025-12-26,Completed,Website
+45,20,2024-05-14,Completed,Mobile App
+46,15,2024-09-29,Completed,Marketplace
+47,17,2025-02-04,Completed,Marketplace
+48,34,2024-06-09,Completed,Mobile App
+49,31,2024-08-23,Completed,Website
+50,11,2024-11-04,Completed,Website
+51,63,2024-07-23,Cancelled,Marketplace
+52,47,2025-03-09,Completed,Website
+53,60,2025-05-06,Completed,Marketplace
+54,7,2025-11-03,Completed,Marketplace
+55,10,2024-12-25,Completed,Mobile App
+56,20,2024-01-07,Completed,Website
+57,67,2025-04-03,Returned,Mobile App
+58,15,2025-03-30,Completed,Website
+59,17,2025-10-13,Completed,Mobile App
+60,57,2025-12-16,Cancelled,Mobile App
+61,67,2024-05-28,Completed,Mobile App
+62,26,2024-02-04,Completed,Website
+63,72,2025-11-18,Completed,Marketplace
+64,18,2025-05-26,Completed,Mobile App
+65,15,2024-08-13,Cancelled,Website
+66,55,2024-09-13,Completed,Website
+67,98,2025-07-29,Completed,Mobile App
+68,36,2025-11-17,Completed,Mobile App
+69,48,2025-08-26,Completed,Website
+70,11,2024-03-21,Cancelled,Website
+71,79,2024-07-23,Completed,Mobile App
+72,29,2025-04-28,Completed,Website
+73,33,2024-02-28,Completed,Marketplace
+74,39,2025-05-10,Completed,Website
+75,37,2025-09-04,Completed,Website
+76,2,2025-09-16,Cancelled,Marketplace
+77,69,2025-05-21,Completed,Mobile App
+78,75,2024-02-22,Completed,Mobile App
+79,71,2025-08-21,Completed,Marketplace
+80,32,2025-10-14,Returned,Website
+81,63,2025-05-13,Completed,Website
+82,8,2025-10-04,Completed,Website
+83,8,2024-12-09,Completed,Website
+84,52,2025-05-19,Cancelled,Mobile App
+85,19,2025-01-28,Completed,Mobile App
+86,2,2025-12-11,Completed,Mobile App
+87,15,2025-08-20,Cancelled,Marketplace
+88,25,2024-03-03,Completed,Website
+89,11,2025-10-26,Completed,Mobile App
+90,2,2024-02-01,Completed,Website
+91,67,2024-02-27,Completed,Mobile App
+92,17,2024-12-29,Completed,Website
+93,5,2024-04-14,Completed,Marketplace
+94,34,2025-02-18,Completed,Mobile App
+95,20,2025-09-11,Completed,Mobile App
+96,100,2024-07-05,Completed,Website
+97,8,2024-01-30,Cancelled,Website
+98,20,2025-07-29,Completed,Website
+99,21,2025-09-01,Completed,Mobile App
+100,24,2024-11-22,Cancelled,Marketplace
+101,88,2025-02-11,Completed,Mobile App
+102,14,2024-01-19,Completed,Website
+103,18,2025-06-09,Completed,Website
+104,96,2024-11-23,Returned,Website
+105,17,2024-01-19,Completed,Website
+106,9,2025-09-18,Cancelled,Website
+107,14,2024-07-23,Completed,Website
+108,10,2025-07-01,Completed,Mobile App
+109,27,2024-06-08,Returned,Website
+110,11,2025-03-03,Completed,Marketplace
+111,42,2024-09-29,Completed,Mobile App
+112,17,2025-03-23,Completed,Mobile App
+113,7,2024-11-30,Returned,Website
+114,56,2024-07-09,Completed,Website
+115,3,2025-09-27,Completed,Mobile App
+116,39,2025-09-26,Completed,Website
+117,19,2024-03-10,Completed,Mobile App
+118,57,2024-04-10,Completed,Website
+119,93,2025-12-24,Completed,Marketplace
+120,88,2025-11-15,Completed,Website
+121,53,2025-06-17,Completed,Website
+122,11,2024-06-27,Completed,Mobile App
+123,11,2024-09-27,Completed,Website
+124,60,2025-04-18,Completed,Marketplace
+125,17,2024-07-16,Completed,Mobile App
+126,18,2024-05-22,Completed,Website
+127,15,2025-07-12,Completed,Marketplace
+128,67,2025-09-02,Completed,Mobile App
+129,13,2024-07-03,Completed,Mobile App
+130,28,2024-08-16,Completed,Mobile App
+131,18,2025-10-10,Completed,Website
+132,34,2024-12-06,Completed,Mobile App
+133,44,2024-04-06,Completed,Mobile App
+134,10,2025-05-29,Completed,Mobile App
+135,13,2025-11-25,Completed,Mobile App
+136,9,2025-07-08,Completed,Website
+137,89,2025-03-04,Completed,Mobile App
+138,42,2024-11-11,Completed,Marketplace
+139,97,2024-05-05,Completed,Marketplace
+140,90,2024-09-09,Completed,Mobile App
+141,39,2024-02-08,Completed,Mobile App
+142,45,2024-06-02,Completed,Website
+143,7,2025-06-10,Completed,Mobile App
+144,55,2024-05-03,Completed,Website
+145,11,2024-12-28,Completed,Marketplace
+146,43,2024-04-04,Completed,Website
+147,72,2024-10-14,Completed,Website
+148,52,2024-08-28,Completed,Website
+149,70,2025-05-19,Completed,Mobile App
+150,62,2025-03-16,Completed,Website
+151,28,2025-12-24,Completed,Mobile App
+152,93,2025-12-06,Completed,Website
+153,27,2025-05-19,Completed,Marketplace
+154,30,2025-05-14,Completed,Website
+155,3,2024-01-31,Cancelled,Website
+156,99,2024-10-15,Completed,Mobile App
+157,40,2024-12-18,Completed,Marketplace
+158,26,2025-05-21,Completed,Marketplace
+159,50,2024-09-03,Completed,Website
+160,56,2025-08-07,Completed,Website
+161,64,2024-03-11,Completed,Website
+162,72,2025-06-06,Returned,Mobile App
+163,97,2024-06-03,Completed,Website
+164,6,2024-07-05,Completed,Website
+165,20,2025-09-20,Completed,Website
+166,24,2025-03-23,Completed,Website
+167,13,2025-07-13,Completed,Website
+168,2,2024-08-27,Completed,Website
+169,30,2025-07-19,Completed,Mobile App
+170,96,2024-03-07,Completed,Website
+171,56,2025-06-20,Returned,Website
+172,51,2024-05-16,Completed,Website
+173,19,2025-11-16,Completed,Marketplace
+174,87,2024-01-24,Completed,Website
+175,63,2024-06-16,Completed,Marketplace
+176,49,2025-01-04,Completed,Website
+177,2,2025-04-15,Completed,Marketplace
+178,38,2025-05-27,Completed,Mobile App
+179,44,2025-07-24,Completed,Mobile App
+180,25,2025-07-12,Cancelled,Mobile App
+181,26,2024-08-02,Completed,Website
+182,8,2024-10-19,Completed,Marketplace
+183,89,2025-10-02,Completed,Marketplace
+184,76,2024-08-08,Completed,Marketplace
+185,10,2025-01-07,Completed,Website
+186,12,2024-04-13,Completed,Website
+187,51,2025-06-12,Completed,Website
+188,4,2024-01-27,Completed,Mobile App
+189,38,2024-04-14,Completed,Mobile App
+190,39,2025-07-28,Completed,Website
+191,4,2024-02-21,Cancelled,Website
+192,38,2025-04-22,Completed,Mobile App
+193,13,2024-01-04,Completed,Mobile App
+194,2,2025-01-02,Completed,Website
+195,54,2024-12-24,Completed,Mobile App
+196,24,2024-08-06,Completed,Website
+197,17,2024-09-17,Completed,Website
+198,29,2024-12-29,Completed,Mobile App
+199,15,2024-08-25,Completed,Website
+200,74,2024-06-23,Completed,Website
+201,92,2024-11-20,Completed,Marketplace
+202,11,2024-03-18,Completed,Marketplace
+203,7,2025-10-06,Cancelled,Mobile App
+204,14,2025-06-08,Completed,Website
+205,86,2025-05-21,Completed,Website
+206,73,2024-03-23,Completed,Website
+207,24,2025-03-16,Completed,Mobile App
+208,10,2025-02-14,Completed,Mobile App
+209,1,2024-12-01,Completed,Mobile App
+210,15,2024-08-16,Completed,Website
+211,26,2024-03-01,Completed,Website
+212,53,2025-12-15,Completed,Website
+213,4,2024-08-16,Completed,Website
+214,21,2025-08-15,Completed,Mobile App
+215,87,2024-12-22,Completed,Marketplace
+216,18,2025-07-04,Completed,Mobile App
+217,5,2024-11-01,Returned,Website
+218,22,2024-10-11,Completed,Website
+219,56,2025-10-20,Completed,Marketplace
+220,65,2024-10-22,Completed,Website
+221,13,2025-01-02,Completed,Website
+222,29,2025-11-08,Completed,Marketplace
+223,26,2024-07-20,Completed,Marketplace
+224,68,2024-01-31,Completed,Website
+225,9,2025-10-29,Completed,Website
+226,92,2025-05-19,Cancelled,Mobile App
+227,11,2025-04-05,Returned,Mobile App
+228,38,2025-04-28,Returned,Website
+229,48,2025-03-06,Completed,Website
+230,6,2024-12-28,Cancelled,Mobile App
+231,12,2024-05-03,Completed,Mobile App
+232,21,2025-02-11,Completed,Mobile App
+233,47,2025-03-12,Completed,Website
+234,50,2025-04-15,Completed,Website
+235,20,2024-10-25,Completed,Marketplace
+236,47,2024-09-09,Completed,Website
+237,51,2024-04-07,Completed,Marketplace
+238,66,2025-09-29,Returned,Website
+239,16,2024-12-17,Completed,Website
+240,91,2025-09-17,Completed,Marketplace
+241,3,2025-04-09,Completed,Marketplace
+242,4,2024-06-24,Completed,Website
+243,45,2024-02-23,Completed,Website
+244,11,2025-08-26,Completed,Website
+245,64,2025-09-06,Completed,Website
+246,46,2024-04-20,Completed,Website
+247,65,2025-02-11,Completed,Website
+248,20,2024-12-04,Cancelled,Mobile App
+249,46,2024-01-06,Cancelled,Marketplace
+250,75,2025-01-01,Completed,Website
+251,35,2024-07-14,Completed,Mobile App
+252,10,2024-04-17,Completed,Website
+253,65,2024-05-22,Completed,Marketplace
+254,39,2024-01-22,Completed,Website
+255,62,2025-10-11,Completed,Marketplace
+256,45,2024-11-08,Completed,Website
+257,15,2024-02-18,Completed,Website
+258,63,2025-11-22,Completed,Marketplace
+259,14,2025-09-14,Completed,Mobile App
+260,12,2024-05-28,Completed,Website
+261,62,2024-11-02,Completed,Marketplace
+262,29,2025-03-21,Completed,Website
+263,43,2024-02-07,Completed,Mobile App
+264,23,2024-03-17,Completed,Website
+265,5,2025-04-28,Cancelled,Website
+266,29,2024-09-22,Completed,Website
+267,69,2024-11-30,Completed,Marketplace
+268,82,2024-08-19,Completed,Website
+269,7,2025-07-23,Completed,Mobile App
+270,17,2025-01-18,Completed,Mobile App
+271,20,2025-12-09,Completed,Website
+272,48,2025-06-12,Completed,Website
+273,54,2025-12-22,Completed,Mobile App
+274,66,2025-04-01,Completed,Mobile App
+275,11,2025-01-24,Completed,Mobile App
+276,19,2024-07-04,Completed,Website
+277,85,2025-12-18,Completed,Marketplace
+278,17,2024-08-09,Completed,Marketplace
+279,44,2025-06-20,Completed,Marketplace
+280,3,2024-02-29,Completed,Website
+281,78,2024-10-25,Completed,Marketplace
+282,33,2024-11-13,Completed,Mobile App
+283,88,2025-03-25,Completed,Marketplace
+284,40,2025-10-20,Completed,Website
+285,10,2025-10-06,Completed,Mobile App
+286,66,2025-10-21,Completed,Website
+287,99,2025-01-29,Completed,Website
+288,49,2025-11-03,Completed,Website
+289,14,2025-07-23,Completed,Mobile App
+290,76,2025-07-06,Completed,Mobile App
+291,66,2024-02-27,Cancelled,Mobile App
+292,9,2024-10-19,Completed,Website
+293,60,2024-05-13,Completed,Website
+294,32,2024-02-16,Completed,Mobile App
+295,5,2024-07-12,Completed,Website
+296,28,2024-12-12,Completed,Website
+297,35,2025-02-19,Completed,Website
+298,70,2025-04-03,Completed,Website
+299,33,2024-09-28,Completed,Mobile App
+300,10,2025-06-15,Completed,Website
+301,63,2025-04-29,Completed,Website
+302,9,2025-02-20,Completed,Mobile App
+303,10,2025-01-01,Completed,Mobile App
+304,97,2025-06-18,Cancelled,Website
+305,18,2024-04-15,Completed,Website
+306,42,2025-06-08,Cancelled,Website
+307,22,2025-12-29,Completed,Marketplace
+308,97,2024-09-13,Completed,Mobile App
+309,27,2024-10-07,Completed,Website
+310,40,2025-08-20,Cancelled,Website
+311,89,2024-01-05,Returned,Mobile App
+312,27,2024-01-17,Completed,Website
+313,92,2025-05-11,Completed,Website
+314,34,2024-09-24,Completed,Marketplace
+315,77,2024-05-15,Completed,Marketplace
+316,80,2024-03-29,Completed,Mobile App
+317,6,2025-10-29,Completed,Mobile App
+318,27,2024-11-20,Returned,Website
+319,9,2025-09-05,Returned,Marketplace
+320,4,2025-03-18,Completed,Website
+321,24,2024-11-11,Cancelled,Website
+322,5,2024-08-22,Completed,Website
+323,19,2025-11-06,Completed,Website
+324,83,2024-06-27,Returned,Marketplace
+325,21,2024-06-07,Completed,Mobile App
+326,1,2024-04-05,Completed,Marketplace
+327,39,2025-06-18,Completed,Mobile App
+328,62,2024-05-18,Completed,Mobile App
+329,62,2025-11-04,Completed,Mobile App
+330,38,2025-11-09,Completed,Mobile App
+331,73,2024-01-20,Cancelled,Marketplace
+332,64,2024-07-01,Returned,Marketplace
+333,6,2024-05-05,Completed,Marketplace
+334,88,2024-11-16,Cancelled,Marketplace
+335,61,2024-08-20,Completed,Website
+336,56,2024-12-19,Cancelled,Website
+337,14,2025-01-16,Cancelled,Website
+338,12,2024-12-05,Cancelled,Marketplace
+339,3,2024-01-13,Completed,Website
+340,14,2024-09-04,Completed,Website
+341,16,2025-04-24,Completed,Marketplace
+342,6,2024-10-09,Completed,Website
+343,81,2025-11-04,Completed,Mobile App
+344,45,2025-08-07,Completed,Website
+345,17,2024-02-01,Completed,Mobile App
+346,41,2024-12-09,Completed,Mobile App
+347,4,2024-08-06,Completed,Mobile App
+348,1,2024-09-06,Cancelled,Website
+349,14,2025-11-02,Completed,Marketplace
+350,41,2024-10-05,Completed,Website
+351,85,2024-09-11,Completed,Mobile App
+352,52,2024-02-08,Completed,Mobile App
+353,55,2024-08-30,Completed,Mobile App
+354,21,2025-08-29,Completed,Mobile App
+355,53,2024-07-02,Completed,Website
+356,13,2025-04-05,Completed,Website
+357,44,2025-06-02,Completed,Marketplace
+358,69,2025-04-13,Cancelled,Mobile App
+359,100,2024-02-12,Returned,Website
+360,49,2024-08-21,Completed,Website
+361,41,2024-06-10,Completed,Mobile App
+362,10,2024-09-08,Completed,Marketplace
+363,1,2025-08-20,Completed,Mobile App
+364,16,2024-12-17,Completed,Mobile App
+365,8,2025-01-24,Completed,Website
+366,20,2025-05-20,Cancelled,Website
+367,20,2024-01-09,Completed,Website
+368,11,2025-02-04,Completed,Website
+369,61,2024-02-26,Completed,Mobile App
+370,50,2024-02-23,Completed,Website
+371,69,2024-05-07,Cancelled,Mobile App
+372,34,2025-04-06,Completed,Website
+373,45,2025-09-10,Returned,Marketplace
+374,3,2024-07-27,Completed,Mobile App
+375,12,2025-07-30,Completed,Website
+376,51,2025-06-29,Completed,Mobile App
+377,76,2025-08-10,Completed,Website
+378,21,2024-06-13,Completed,Website
+379,40,2025-08-12,Returned,Marketplace
+380,40,2024-10-01,Completed,Website
+381,21,2024-07-08,Completed,Mobile App
+382,39,2025-10-22,Completed,Website
+383,4,2024-09-21,Completed,Mobile App
+384,11,2024-07-16,Completed,Website
+385,46,2024-05-11,Completed,Website
+386,27,2024-01-21,Completed,Marketplace
+387,23,2024-10-28,Returned,Mobile App
+388,26,2025-06-16,Completed,Website
+389,22,2025-01-08,Completed,Website
+390,7,2024-10-17,Completed,Mobile App
+391,15,2024-09-12,Completed,Website
+392,66,2025-04-10,Completed,Marketplace
+393,54,2024-01-06,Completed,Marketplace
+394,13,2024-12-08,Completed,Mobile App
+395,4,2024-09-26,Completed,Marketplace
+396,11,2024-01-17,Cancelled,Mobile App
+397,40,2025-03-25,Completed,Mobile App
+398,19,2025-06-20,Completed,Website
+399,11,2025-06-10,Completed,Website
+400,4,2024-05-20,Completed,Mobile App
+401,86,2024-05-02,Completed,Mobile App
+402,55,2025-11-03,Completed,Marketplace
+403,68,2024-04-04,Completed,Mobile App
+404,5,2024-08-14,Completed,Marketplace
+405,12,2024-03-08,Completed,Mobile App
+406,58,2024-04-28,Cancelled,Marketplace
+407,6,2025-09-17,Completed,Mobile App
+408,75,2025-03-21,Completed,Mobile App
+409,6,2024-07-15,Completed,Website
+410,35,2025-12-13,Completed,Website
+411,28,2025-10-30,Cancelled,Mobile App
+412,79,2024-02-02,Completed,Mobile App
+413,22,2024-07-26,Completed,Mobile App
+414,59,2024-11-21,Completed,Mobile App
+415,15,2024-08-11,Completed,Website
+416,59,2024-10-25,Completed,Marketplace
+417,9,2025-05-29,Completed,Website
+418,34,2025-09-09,Completed,Marketplace
+419,90,2024-12-19,Completed,Website
+420,33,2025-02-01,Completed,Mobile App
+421,49,2024-12-18,Completed,Website
+422,39,2024-12-15,Completed,Marketplace
+423,12,2025-11-06,Completed,Website
+424,16,2024-09-28,Completed,Mobile App
+425,99,2024-05-30,Completed,Mobile App
+426,63,2024-05-03,Completed,Website
+427,69,2025-11-20,Completed,Website
+428,39,2025-02-02,Completed,Mobile App
+429,11,2025-05-13,Completed,Mobile App
+430,13,2025-03-26,Completed,Website
+431,2,2024-03-04,Completed,Mobile App
+432,51,2025-05-03,Completed,Mobile App
+433,90,2025-05-13,Completed,Marketplace
+434,5,2024-09-09,Completed,Website
+435,19,2024-11-01,Completed,Website
+436,60,2025-05-07,Completed,Marketplace
+437,5,2024-02-08,Completed,Mobile App
+438,11,2025-01-01,Completed,Mobile App
+439,2,2024-03-09,Completed,Website
+440,62,2025-11-18,Returned,Website
+441,39,2024-07-28,Completed,Marketplace
+442,3,2025-07-15,Completed,Website
+443,10,2025-01-21,Completed,Website
+444,88,2024-03-07,Completed,Mobile App
+445,12,2024-05-10,Completed,Mobile App
+446,65,2024-01-21,Completed,Mobile App
+447,28,2024-05-30,Completed,Marketplace
+448,30,2025-01-20,Returned,Website
+449,7,2024-02-06,Completed,Marketplace
+450,5,2025-04-22,Cancelled,Website
+451,8,2024-07-11,Completed,Mobile App
+452,26,2025-08-14,Cancelled,Website
+453,1,2025-10-01,Completed,Marketplace
+454,46,2025-07-31,Completed,Website
+455,1,2025-03-17,Returned,Mobile App
+456,26,2025-11-20,Completed,Marketplace
+457,92,2025-09-30,Completed,Marketplace
+458,83,2025-12-30,Completed,Website
+459,54,2025-09-29,Completed,Marketplace
+460,43,2025-04-28,Completed,Marketplace
+461,56,2024-11-07,Completed,Website
+462,98,2025-02-27,Completed,Mobile App
+463,4,2025-11-08,Completed,Mobile App
+464,68,2024-11-18,Completed,Marketplace
+465,79,2025-04-17,Completed,Website
+466,13,2025-08-21,Completed,Website
+467,54,2024-12-02,Completed,Website
+468,70,2024-11-30,Completed,Mobile App
+469,8,2024-09-05,Completed,Marketplace
+470,45,2025-09-26,Completed,Mobile App
+471,90,2025-06-06,Completed,Mobile App
+472,76,2025-01-28,Completed,Mobile App
+473,7,2025-05-15,Returned,Marketplace
+474,65,2025-08-08,Completed,Website
+475,86,2024-01-13,Completed,Mobile App
+476,15,2025-11-03,Completed,Website
+477,5,2025-07-23,Completed,Mobile App
+478,78,2025-04-24,Completed,Website
+479,3,2025-04-10,Completed,Mobile App
+480,59,2025-02-01,Completed,Website
+481,10,2024-01-04,Completed,Website
+482,34,2025-03-24,Completed,Mobile App
+483,90,2025-02-05,Completed,Marketplace
+484,30,2025-12-02,Completed,Website
+485,9,2024-04-10,Completed,Mobile App
+486,82,2025-01-05,Completed,Marketplace
+487,95,2025-05-07,Completed,Website
+488,13,2025-01-05,Completed,Website
+489,50,2024-10-12,Completed,Mobile App
+490,39,2024-05-08,Completed,Website
+491,1,2024-04-11,Completed,Website
+492,14,2025-08-27,Completed,Website
+493,43,2025-09-03,Completed,Website
+494,90,2025-07-27,Completed,Website
+495,19,2025-09-12,Completed,Website
+496,5,2024-05-29,Completed,Website
+497,18,2024-09-03,Completed,Mobile App
+498,94,2024-02-26,Cancelled,Mobile App
+499,15,2025-05-03,Completed,Mobile App
+500,50,2024-10-12,Completed,Mobile App

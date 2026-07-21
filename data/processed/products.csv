@@ -1,0 +1,51 @@
+product_id,product_name,category,brand,cost_price,list_price
+1,Laptop,Electronics,ComfortPlus,15586.62,17254.77
+2,Smartphone,Electronics,EliteHome,58759.97,69657.43
+3,Tablet,Electronics,EcoWorks,25060.38,28384.06
+4,Smartwatch,Electronics,EliteHome,29770.1,35393.96
+5,Earbuds,Electronics,OfficePro,52774.11,59221.23
+6,Bluetooth Speaker,Electronics,OfficePro,44258.31,50784.72
+7,Monitor,Electronics,HomeEase,65838.35,74826.74
+8,Printer,Electronics,TechNova,21232.0,25343.65
+9,Webcam,Electronics,NexGen,20538.31,24239.19
+10,Router,Electronics,SmartTech,15292.48,18154.35
+11,Microwave Oven,Home Appliances,EliteHome,16620.09,20494.53
+12,Mixer Grinder,Home Appliances,TechNova,4442.17,5616.77
+13,Vacuum Cleaner,Home Appliances,OfficePro,2027.33,2706.16
+14,Air Purifier,Home Appliances,TechNova,19663.6,24715.41
+15,Electric Kettle,Home Appliances,OfficePro,15066.77,18532.72
+16,Rice Cooker,Home Appliances,EcoWorks,11850.34,14786.78
+17,Induction Cooktop,Home Appliances,UrbanLiving,17745.6,21878.62
+18,Ceiling Fan,Home Appliances,TechNova,19907.69,26505.33
+19,Water Purifier,Home Appliances,TechNova,10295.12,12630.64
+20,Washing Machine,Home Appliances,SmartTech,13450.8,17454.24
+21,Office Chair,Furniture,TechNova,2948.33,4231.68
+22,Study Table,Furniture,EliteHome,4512.54,5689.8
+23,Bookshelf,Furniture,PrimeGear,4543.68,6221.05
+24,Computer Desk,Furniture,PrimeGear,3531.72,5092.37
+25,Sofa Chair,Furniture,PrimeGear,18561.09,25532.7
+26,Filing Cabinet,Furniture,HomeEase,14550.5,19289.6
+27,Conference Table,Furniture,PrimeGear,18052.25,23592.64
+28,Wooden Stool,Furniture,EliteHome,6493.29,8164.38
+29,TV Unit,Furniture,EcoWorks,23587.69,31485.89
+30,Wardrobe,Furniture,OfficePro,5655.08,7996.27
+31,Notebook,Office Supplies,HomeEase,2262.82,3829.23
+32,Printer Paper,Office Supplies,PrimeGear,1848.69,2667.22
+33,Ink Cartridge,Office Supplies,PrimeGear,2548.64,3758.37
+34,Ball Pen Pack,Office Supplies,PrimeGear,1399.06,2227.56
+35,Sticky Notes,Office Supplies,ComfortPlus,982.3,1583.08
+36,Desk Organizer,Office Supplies,OfficePro,2978.8,4498.1
+37,Whiteboard,Office Supplies,EcoWorks,40.68,62.96
+38,Marker Set,Office Supplies,ComfortPlus,2415.68,3469.62
+39,Stapler,Office Supplies,PrimeGear,2692.83,4226.42
+40,File Folder,Office Supplies,ComfortPlus,429.94,715.84
+41,Mouse,Accessories,NexGen,112.03,185.46
+42,Keyboard,Accessories,EliteHome,2628.23,4358.65
+43,Laptop Bag,Accessories,TechNova,4072.28,6868.27
+44,USB Drive,Accessories,OfficePro,2572.34,4260.86
+45,Power Bank,Accessories,EcoWorks,3546.48,6637.04
+46,HDMI Cable,Accessories,UrbanLiving,4373.11,7176.64
+47,Phone Charger,Accessories,ComfortPlus,2841.55,4392.19
+48,Backpack,Accessories,NexGen,2668.4,4547.92
+49,Mouse Pad,Accessories,EcoWorks,2875.95,4917.18
+50,Webcam Stand,Accessories,TechNova,3804.37,7158.85
